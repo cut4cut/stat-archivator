@@ -33,3 +33,4 @@
 poetry install
 make run
 ```
+Архивы и CSV-файлы появятся в папке `data`.
